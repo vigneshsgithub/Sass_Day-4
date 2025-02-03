@@ -1,0 +1,25 @@
+// Global variables for theme
+$primary-color: #3498db;
+$secondary-color: #2ecc71;
+$font-family: 'Arial', sans-serif;
+$font-size-base: 16px;
+$border-radius: 12px;
+$input-border-color: #ccc;
+$button-color: $primary-color;
+$button-hover-color: darken($primary-color, 10%);
+$padding: 12px;
+
+
+//Global variables for buttons background-colors
+
+$button-bg-green:$secondary-color;
+$button-bg-red:red;
+$button-bg-orange:orange;
+$button-bg-yellow:yellow;
+
+//Global variables for buttons Colors
+$button-black:#333;
+$button-color:#fff;
+
+
+
